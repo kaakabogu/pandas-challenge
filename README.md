@@ -1,1 +1,23 @@
-# pandas-challenge
+# Unit 4 :pandas-challenge
+### Background
+You are the new Chief Data Scientist for your city's school district. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
+
+As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your task is to aggregate the data to showcase obvious trends in school performance.
+
+### Observable Trends
+Two datasets were provided for this analysis, which are school data and student data. In combining this two datasets, it is determined there are 15 schools and 39,170 students.
+
+The total students average reading score is 81.87 which is higher than the average math score 78.98. And the passing reading rate of 85.80 is higher than passing math rate of 74.98 %, with the overall passing rate is 65.17%. Based on this findings, it can be inferred that student have greater competency in reading than math. 
+The school summary showed that 7 out of the total 15 schools are at the district level and other 8 eight at charter level. Also, it is indicated from the analysis that distrcit schools have more students an budget than charter school due geographical coverage.
+
+The total budget field of the school summery showed the budget amount allocated to each school. Bailey high school has the  maximum budget of $3,124,928.00 and Holden High school has the lowest budget of $248,087.00 its Holden High School. We can see later Bailey High School is not in the top performing schools. Regarding budget per student, Huang High School ( $655.000) has a higher budget per student, and Wilson High School ($578.00) allocates a lower budget per student. Huang High School is one of the bottom performing school. The total district schools budget( $17,347,923.00) is higher than Charter schools budget ($7,301,505.00), however, when we come to the total allocation of Budget Per Student charter schools allocation ($4,796.00) is greater than district schools ($4,505.00). This may due to charter schools have a smaller number of students.
+
+The findings from the data showed that in all metrics (average, percent, and overall) of reading and math scores Charter schools have a greater score than District schools. Pena High School has the maximum (83.839917) average math score (83.839917), percent of students passing math (94.59%) and average reading score (84.044699). it can be inferred that Pena High School might have a good quality, and reputation in teaching math, and reading; further investigation on the contributing factors are required to support the hypothesis. On the other side, Huang High School has a lower average math score (76.842711), and percent of students passing math (65.683922). Regarding the percent of passing reading class Thomas High School has a higher percentage value (97.30%). On the flip side, Rodriguez High School has a lower Average Reading Score(80.744686), and Ford High School has a lower passing reading. In the overall percentage passing Cabrera High School has the maximum passing percentage rate ( 91.33 %), and Rodriguez High School has a lower percentage of (52.98) passing.
+
+School by school spending analysis does show inverse relationship between the spending range(per student) and overall grade scores for students in math and reading. The same inverse relationship is observed in the "school by school sizes analysis". The overall grade score for math and reading category decreases with increase in student size.
+
+it is determined that charter level school with the least budget and student size performed better than district level schools with bigger budget and student size.
+
+Grade 11 students at Holden High School holds a higher average Math score (85) comparing all schools and grades. Holden High School grade 12 students possess a higher average reading score (84.698795).
+
+The data revealed that when the number of students sizes higher in schools the average math scores, average reading scores, passing math, passing reading, and overall passing decrease. So, we can infer that, when student size body increase, it negatively influences student achievement. Therefore, schools, cities, districts, and charters should work on student size in schools, and classes because it directly affects student achievement for so many reasons.
